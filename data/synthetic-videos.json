@@ -1,0 +1,11 @@
+[
+  {"is_synthetic": true, "type": "video", "bvid": "BV0000000001", "authorMid": "9007199254740993", "authorName": "合成创作者甲", "title": "合成键盘演示甲", "views": 2000, "likes": 20, "favorites": 40, "coins": null, "shares": null},
+  {"is_synthetic": true, "type": "video", "bvid": "BV0000000001", "authorMid": "9007199254740993", "authorName": "合成创作者甲", "title": "合成重复记录，不应计入", "views": 9999, "favorites": 200},
+  {"is_synthetic": true, "type": "video", "bvid": "BV0000000002", "authorMid": "9007199254740993", "authorName": "合成创作者甲", "title": "合成键盘演示乙", "views": 800, "likes": null, "favorites": 8, "coins": null, "shares": null},
+  {"is_synthetic": true, "type": "video", "bvid": "BV0000000003", "authorMid": "9007199254740994", "authorName": "合成创作者甲", "title": "合成同名不同ID演示", "views": 5000, "likes": 0, "favorites": 50, "coins": null, "shares": null},
+  {"is_synthetic": true, "type": "video", "bvid": "BV0000000004", "authorMid": "9007199254740995", "authorName": "合成创作者丙", "title": "合成零指标演示", "views": 0, "likes": 0, "favorites": 0, "coins": null, "shares": null},
+  {"is_synthetic": true, "type": "video", "bvid": "BV0000000005", "authorMid": "9007199254740996", "authorName": "合成创作者丁", "title": "合成缺值演示", "views": null, "likes": null, "favorites": null, "coins": null, "shares": null},
+  {"is_synthetic": true, "type": "video", "bvid": "BV0000000006", "authorMid": "9007199254740995", "authorName": "合成创作者丙", "title": "=合成公式字符保护演示", "views": 1200, "likes": 12, "favorites": 24, "coins": null, "shares": null},
+  {"is_synthetic": true, "type": "creator", "name": "合成非视频记录，用于忽略测试"},
+  {"is_synthetic": true, "type": "video", "bvid": "invalid-placeholder", "title": "合成无效BV演示"}
+]
